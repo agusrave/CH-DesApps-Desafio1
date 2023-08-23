@@ -2,20 +2,20 @@
  Curso Desarrollo Aplicaciones - Coder House - Desafío 1 - Expo CLI
 
 ## Requisitos previos
-Node.js
-npm 
+* Node.js
+* npm 
 
 ## Instalación 
 1. Clonar el repositorio 
 3. Instalar dependencias 
-    1. npm: "npm install"
-    2. Expo CLI: "npm install -g expo-cli"
+    * npm: "npm install"
+    * Expo CLI: "npm install -g expo-cli"
 
 ## Uso
 1. Navegar al directorio del proyecto "cd SM-Go-APP" 
-2. Ejecutar la app "npm start" 
+2. Ejecutar la app con "npm start" 
 3. Visualizar en Expo GO (celulares) 
-    Opcional visualizar en un emulador (pc). Para Android presionar "a"
+    * Opcional visualizar en un emulador (pc). Para Android presionar "a"
 
 
 
